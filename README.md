@@ -6,7 +6,5 @@ PCA index is Python code that access S&P 500 information from Yahoo Finance and 
 
 Structural Trade Modelling is a MATLAB code that calculates the impact of US tariffs on Canada, Mexico, and rest of the world. It constructs several variables like technology, labour, wages using techniques similar to general equilibrium modelling. 
 
-Who is a Sex Worker: Covid-19, State Support, and Hidden Identities was my dissertation submitted in fulfillment of the Bachelor of Science in Economics (Honors) degree at Symbiosis International University. I received an ‘O’ (Outstanding) grade.
-
 Consumer Behaviour and Sustainable Fast Fashion (2021) was a paper I wrote as part of my research methodology coursework. It was selected for presentation at the Amity International Conference on Circular Economy.
 
